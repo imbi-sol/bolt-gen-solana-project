@@ -1,0 +1,1 @@
+# bolt-gen-solana-project
